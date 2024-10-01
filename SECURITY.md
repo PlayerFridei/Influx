@@ -1,4 +1,4 @@
-# Security Policy for [Exploit Tool Name]
+# Security Policy for [Influx]
 
 ## 📢 Disclaimer & Liability
 By using this tool, you agree to:
@@ -16,7 +16,7 @@ By using this tool, you agree to:
 ---
 
 ## 🚨 Reporting Vulnerabilities
-Found an issue? Contact `[your-email@example.com]` with:
+Found an issue? Contact `[PlayerFridei@protonmail.com]` with:
 - A description of the issue.
 - Steps to reproduce.
 - Potential impact. Please **do not publicly disclose** before our response.
