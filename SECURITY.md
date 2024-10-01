@@ -1,4 +1,4 @@
-# Security Policy for [Influx]
+# Security Policy for [Absolute-DNS-Enum]
 
 ## 📢 Disclaimer & Liability
 By using this tool, you agree to:
@@ -44,7 +44,7 @@ Found an issue? Contact `[PlayerFridei@protonmail.com]` with:
 ---
 
 ## 🔒 Privacy & Security Notice
-- **No Data Collection**: The tool collects no personal information or usage data.
+- **No Data Collection**: The tool itself collects no personal information or usage data, but when connecting to third party IP addresses or domains, your IP address might be logged.
 - **Use Securely**: Test in safe, isolated environments; keep your systems secure.
 
 ---
@@ -62,4 +62,3 @@ This tool is meant for **educational research and security testing**. Misuse is 
 
 ## ⚠️ Important Notice
 Misuse of this tool is prohibited, and any responsible parties should be informed if issues arise.
-
